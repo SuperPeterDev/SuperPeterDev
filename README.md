@@ -1,63 +1,109 @@
 # Hi, I'm Nueafa Pongprom 👋
 
-### ⚙️ Cost Reduction Staff | General Machine (GM) Department
-**Bridging Computer Science & Manufacturing Operations**
-
-I am a Developer and Analyst working in the **Cost Reduction Team** for the **General Machine (GM) Department**. My role is to apply technical solutions—specifically **Digital Twins** and **Python Automation**—to solve daily challenges in High-Mix / Low-Volume manufacturing.
-
-> **⚠️ Context:**
-> * **Private Repos:** Contain specific Costing Engines, Factory Simulations.
-> * **Public Repos:** Contain the *tools*, *sanitized logic*, and *CS research* I use to build these systems.
+### Data Analyst · Data Engineer · Manufacturing Domain
+`Python` · `SQL` · `ETL Pipelines` · `Dashboard & Reporting` · `Cost Analytics` · `Process Optimization`
 
 ---
 
-### 🛠️ My Role: The "Industrial Developer"
-While my title is Staff, my toolkit is Engineering. I build the systems that calculate cost and simulate flow.
+### 👋 About Me
 
-- **Design Pattern:** Strict **Modular & OOP**. I treat every machine and product as a Code Object.
-- **Data Strategy:** Transforming raw "General Machine" data $\rightarrow$ **Unified Objects** for analysis.
-- **Workflow:** `Flow Design (Text)` $\rightarrow$ `Logic Testing` $\rightarrow$ `Production Code`.
-- **Goal:** To provide the department with actionable **Insight & Analysis**, not just raw data.
+I'm a **Data Analyst and Data Engineer** with hands-on experience in **manufacturing operations** at MinebeaMitsumi Thai — a global precision parts manufacturer producing HDD, Medical, and Automotive components.
 
----
+I build the systems that turn raw operational data into decisions:
+**ETL pipelines → clean data → dashboards → cost insights → action.**
 
-### 💻 The Tech Stack
-| Domain | Technology |
-| :--- | :--- |
-| **Production Logic** | `Python` (SimPy, Custom OOP Models) |
-| **Data Storage** | `MSSQL` `CSV (Config Masters)` |
-| **Analysis & Viz** | `Pandas` `Plotly` `Dash` |
-| **Development** | `VS Code` `Jupyter` `Windows` |
+My background combines a **Computer Science foundation** with real factory-floor domain knowledge — bridging the gap between technical data work and business outcomes.
 
 ---
 
-### 🧠 System Architecture: Digital Twin Logic
-*How I model the General Machine floor.*
+### 💼 What I Do
 
-<h3 align="left">Connect with me:</h3>
-nueafa.p@gmail.com
+**Data Engineering**
+- Build and maintain **ETL/ELT pipelines** from SQL Server (MSSQL) production databases
+- Design **automated reporting systems** that eliminate manual data extraction
+- Apply **data validation and quality checks** at every stage of the pipeline
+- Structure raw transactional data into clean, typed models ready for analysis
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left"> 
-        <!-- ML Icons -->
-        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a> 
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a> 
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a> 
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a> 
-        <!-- Backend Icons -->
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> 
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> 
-        <!-- Other Icons -->
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> 
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
-    </p>
+**Data Analysis**
+- Perform **cost variance analysis** — identifying root causes across machines, products, and processes
+- Build **KPI dashboards** that track operational performance with benchmark lines and anomaly detection
+- Analyze **production data** across 200+ CNC machines and ~1,000 active SKUs
+- Deliver **insight reports** that drive cost reduction decisions for management
+
+**Domain: Manufacturing & Operations**
+- Production cost analysis · Direct material tracking · WIP inventory reconciliation
+- Process efficiency monitoring · Overhead absorption · Scrap & yield analysis
+
+---
+
+### 🧰 Tech Stack
+
+| | Tools |
+|---|---|
+| **Language** | Python · SQL |
+| **Data & Analysis** | pandas · NumPy · SQLAlchemy · pyodbc |
+| **Visualization** | Plotly · Dash · Matplotlib · Seaborn |
+| **Database** | Microsoft SQL Server (MSSQL) |
+| **Dev Tools** | VS Code · Jupyter Notebook · Git |
+
+---
+
+### 📌 Selected Projects
+
+> *(Full code in private repos — sanitized logic and patterns available in public repos)*
+
+**🔹 Automated Cost Report Pipeline**
+Built a scheduled ETL pipeline pulling from MSSQL → validated → formatted report output.
+Replaced 4+ hours of weekly manual Excel work. `Python` `SQL` `pandas` `pyodbc`
+
+**🔹 Cost per Minute (C/M) Analytics Framework**
+Modeled true manufacturing cost per machine-minute across 200+ CNCs and 1,000+ SKUs —
+exposing hidden overhead gaps that standard accounting missed. `Python` `SQL` `Plotly`
+
+**🔹 Direct Material Cost Tracker**
+Automated bar stock and component cost tracking against BOM targets, reconciled monthly
+actuals vs. standard, and flagged variance root causes. `Python` `pandas` `MSSQL`
+
+**🔹 WIP Classification & Reconciliation System**
+Designed a 9-state WIP taxonomy to classify all in-process inventory before month-end close —
+preventing unabsorbed costs from hiding in open production orders. `Python` `SQL`
+
+---
+
+### 📈 Impact (Sample Metrics)
+
+- Automated reporting workflows → reduced manual report time by **hours per cycle**
+- Cost variance analysis → first month hitting KPI target after structured monitoring
+- Pipeline design → clean, validated data replacing ad-hoc Excel extraction
+
+---
+
+### 🎓 Background
+
+`B.S. Computer Science` · MinebeaMitsumi Thai — Staff of Cost Reduction (GMMA)
+
+---
+
+### 📬 Connect
+
+`nueafa.p@gmail.com`
+
+---
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+</p>
